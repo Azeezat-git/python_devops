@@ -21,3 +21,9 @@ Microservice
 1. Create a virtualenv: virtualenv ~/.venv
 2. edit my ~/.bashrc source ~/.venv/bin/activate
 3. clone project then run make all
+
+Microservices
+
+Containerized Continuous Delivery
+
+docker run -p 127.0.0.1:8080:8080 a5105a47ca89
