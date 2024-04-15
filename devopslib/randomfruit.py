@@ -1,5 +1,6 @@
 import random
 
+
 def fruit():
     fruits = ["apple", "pear", "lemon", "strawberry", "avocado", "cherry"]
     return random.choice(fruits)
