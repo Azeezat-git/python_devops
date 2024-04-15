@@ -8,7 +8,7 @@
       "OutputPath": "$.Payload",
       "Parameters": {
         "Payload.$": "$",
-        "FunctionName": "arn:aws:lambda:us-east-1:561744971673:function:RandomFruit:$LATEST"
+        "FunctionName": "arn:aws:lambda:us-east-1:758560478625:function:RandomFruit:$LATEST"
       },
       "Retry": [
         {
@@ -30,7 +30,7 @@
       "OutputPath": "$.Payload",
       "Parameters": {
         "Payload.$": "$",
-        "FunctionName": "arn:aws:lambda:us-east-1:561744971673:function:chef:$LATEST"
+        "FunctionName": "arn:aws:lambda:us-east-1:758560478625:function:chef:$LATEST"
       },
       "Retry": [
         {
